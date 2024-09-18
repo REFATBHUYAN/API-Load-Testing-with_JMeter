@@ -40,8 +40,8 @@ The test results indicate that the server can handle **up to 1600 concurrent API
 
 You can find the detailed reports generated from the tests, including graphical data, request-response time distributions, and throughput analysis in the following HTML reports:
 
-- [Report for 100 Requests](API_LoadTesting_100.html/API_LoadTesting_100.html)
-- [Report for 300 Requests](API_LoadTesting_300.html/API_LoadTesting_300.html)
+- [Report for 100 Requests](https://github.com/REFATBHUYAN/API-Load-Testing-with_JMeter/blob/main/API_LoadTesting_100.html/index.html)
+- [Report for 300 Requests](https://github.com/REFATBHUYAN/API-Load-Testing-with_JMeter/blob/main/API_LoadTesting_300.html/index.html)
 
 Each report contains:
 - **Throughput graphs**
